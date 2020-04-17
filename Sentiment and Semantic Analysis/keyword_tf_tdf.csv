@@ -1,0 +1,6 @@
+Query,Documents_containing_term,n/df,log(n/df)
+Canada,137,5.11,0.71
+University,67,10.45,1.02
+Dalhousie University,10,70.0,1.85
+Halifax,55,12.73,1.1
+Business,34,20.59,1.31
